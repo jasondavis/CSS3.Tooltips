@@ -13,7 +13,7 @@ https://github.com/AdamWhitcroft/CSS3.Tooltips
 	content:'';
 	/* hides the tooltip when not hovered */
 	display:none;
-	border:5px solid #000;
+	border:5px solid #1a1a1a;
 	/* 4 border technique to create the arrow */
 	border-top-color:#1a1a1a;
 	border-right-color:transparent;
