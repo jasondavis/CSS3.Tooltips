@@ -149,3 +149,14 @@ https://github.com/AdamWhitcroft/CSS3.Tooltips
 	border-bottom-color:#e1473e;
 	border-left-color:transparent;
 }
+/*==================================================*/
+/*  $Aligned Tooltips                               */
+/*==================================================*/
+.arrow-center[data-tip]:before {
+	left: 50%;
+	margin-left: -3.5px;
+}
+.arrow-right[data-tip]:before {
+	left: 100%;
+	margin-left: -13.5px;
+}
