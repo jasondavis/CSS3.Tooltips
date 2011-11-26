@@ -118,6 +118,9 @@ a:link {
 	color:#FF8A00;
 	text-decoration:none;
 }
+em {
+	font-style: italic;
+}
 .demo-div {
 	padding:10px;
 	background:#efefef;
